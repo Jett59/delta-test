@@ -5,6 +5,6 @@ using std::endl;
 
 int main()
 {
-	cout << "Hello" << endl;
+	cout << "Hello there" << endl;
 	return 0;
 }
